@@ -4,7 +4,7 @@
 
 ### Senior Android Developer | Architect | Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=5%2B+Years+in+Android+Development;Kotlin+%7C+MVVM+%7C+Clean+Architecture;Building+Scalable+Mobile+Solutions;Specialized+in+Offline-Online+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=6%2B+Years+in+Android+Development;Kotlin+%7C+MVVM+%7C+Clean+Architecture;KMM;Building+Scalable+Mobile+Solutions;Specialized+in+Offline-Online+Apps" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-872720171/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:deepaksaini9558@gmail.com)
