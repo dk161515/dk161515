@@ -157,10 +157,10 @@ Enterprise Resource Planning solution for financial cooperatives and federations
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dk161515&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dk161515&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=dk161515&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 
 </div>
 
@@ -244,7 +244,7 @@ I'm always interested in collaborating on innovative Android projects or discuss
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksaini9558@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=dk161515&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
